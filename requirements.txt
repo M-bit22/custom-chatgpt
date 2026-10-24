@@ -1,7 +1,4 @@
-openai
-langchain
-langchain-openai
-langchain-core
 streamlit
-tiktoken
+langchain-google-genai
+langchain-core
 python-dotenv
